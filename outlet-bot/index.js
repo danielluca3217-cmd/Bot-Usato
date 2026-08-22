@@ -8,7 +8,7 @@ const axios = require('axios');
 // ============================================================
 // 🔧 CONFIGURAZIONE
 // ============================================================
-const TOKEN = process.env.DISCORD_TOKEN || 'IL_TUO_TOKEN_BOT';
+const TOKEN = process.env.DISCORD_TOKEN || 'MTU0MDUxMjQwMDA2OTg5NDE1NQ.G5-4RZ.dN7G4w1YSbtLxf0qvssRXDwaXCdVUES4_YABno';
 const JSONBIN_BIN_ID = process.env.JSONBIN_BIN_ID || '6a8836b0f5f4af5e2930f4bb';
 const JSONBIN_API_KEY = process.env.JSONBIN_API_KEY || '$2a$10$wZYd3ki9TiZ/VDC337viNOiC1znyu5NWat6lENgmgdSaUfQ.2.jPO';
 const CANALE_COMANDI = process.env.CANALE_COMANDI || 'ID_CANALE_DISCORD';
